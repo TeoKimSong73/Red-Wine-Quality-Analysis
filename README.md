@@ -1,14 +1,18 @@
 # Red Wine Quality Analysis 🍷
 
-This is a data analysis project that explores the factors affecting the quality of red wine.  
-The goal is to help wine producers improve wine quality by understanding which features influence the final product.
+This is a data analysis project that explores the factors affecting the quality of red wine.
+The goal is to help wine producers improve wine quality by understanding which physicochemical features influence the final product.
 
 ---
 
 ## 📊 Dataset
 - **Source:** UCI Machine Learning Repository  
 - **Records:** 1,599  
-- **Features:** 11 physicochemical properties + 1 quality score  
+- **Features:** 11 physicochemical properties + 1 quality score
+
+## 📂 Data Files
+- **winequality-red-original dataset - uncleaned.csv - Original (raw) dataset**
+- **winequality-red-cleaned.csv – Cleaned dataset with values rounded to 4 decimal places**
 
 ---
 
@@ -21,7 +25,8 @@ The goal is to help wine producers improve wine quality by understanding which f
 ---
 
 ## 🔍 Project Highlights
-- Cleaned and explored the wine dataset  
+- Cleaned and explored the wine dataset
+- Rounded float values (e.g., chlorides, density) to 4 decimal places for clarity
 - Converted quality scores into binary classification (low/high)  
 - Visualized relationships between features and wine quality  
 - Provided business recommendations based on insights  
