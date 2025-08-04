@@ -5,14 +5,14 @@ The goal is to help wine producers improve wine quality by understanding which f
 
 ---
 
-## 📊 Dataset  
+## 📊 Dataset
 - **Source:** UCI Machine Learning Repository  
 - **Records:** 1,599  
 - **Features:** 11 physicochemical properties + 1 quality score  
 
 ---
 
-## 🛠️ Tools Used  
+## 🛠️ Tools Used
 - Python (Jupyter Notebook)  
 - pandas, numpy, matplotlib, seaborn  
 - scikit-learn (for model building)  
@@ -20,7 +20,7 @@ The goal is to help wine producers improve wine quality by understanding which f
 
 ---
 
-## 🔍 Project Highlights  
+## 🔍 Project Highlights
 - Cleaned and explored the wine dataset  
 - Converted quality scores into binary classification (low/high)  
 - Visualized relationships between features and wine quality  
@@ -28,14 +28,14 @@ The goal is to help wine producers improve wine quality by understanding which f
 
 ---
 
-## 📈 Future Work  
+## 📈 Future Work
 - Try multi-class classification  
 - Compare different machine learning models  
 - Add more features to improve model accuracy  
 
 ---
 
-## 🙏 Acknowledgements  
+## 🙏 Acknowledgements
 - **Trainer:** Bishmer  
 - **Learning Support:** NTUC LearningHub & SkillsFuture  
 - **Classmates:** Darren, David, Joanna, Grace, Joelle, Marteus, Winston  
@@ -43,5 +43,5 @@ The goal is to help wine producers improve wine quality by understanding which f
 
 ---
 
-## 👤 Created by  
+## 👤 Created by
 **Kim Song** – Data Analyst *(Student Project)*
