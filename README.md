@@ -11,7 +11,7 @@ The goal is to help wine producers improve wine quality by understanding which p
 - **Features:** 11 physicochemical properties + 1 quality score
 
 ## 📂 Data Files
-- **winequality-red-original dataset - uncleaned.csv - Original (raw) dataset**
+- **winequality-red-original dataset-uncleaned.csv - Original (raw) dataset**
 - **winequality-red-cleaned.csv – Cleaned dataset with values rounded to 4 decimal places**
 
 ---
