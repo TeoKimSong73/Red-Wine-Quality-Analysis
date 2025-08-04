@@ -1,6 +1,6 @@
 # Red Wine Quality Analysis 🍷
 
-This is a data analysis project that explores factors affecting the quality of red wine.  
+This is a data analysis project that explores the factors affecting the quality of red wine.  
 The goal is to help wine producers improve wine quality by understanding which features influence the final product.
 
 ---
@@ -21,8 +21,8 @@ The goal is to help wine producers improve wine quality by understanding which f
 ---
 
 ## 🔍 Project Highlights  
-- Cleaned and explored wine dataset  
-- Converted quality score into binary classification (low/high)  
+- Cleaned and explored the wine dataset  
+- Converted quality scores into binary classification (low/high)  
 - Visualized relationships between features and wine quality  
 - Provided business recommendations based on insights  
 
@@ -31,7 +31,7 @@ The goal is to help wine producers improve wine quality by understanding which f
 ## 📈 Future Work  
 - Try multi-class classification  
 - Compare different machine learning models  
-- Add more features to improve accuracy  
+- Add more features to improve model accuracy  
 
 ---
 
