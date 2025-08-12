@@ -7,12 +7,12 @@ The goal is to help wine producers improve wine quality by understanding which p
 
 ## 📊 Dataset
 - **Source:** UCI Machine Learning Repository  
-- **Records:** 1,599  
+- **Records:** 1,599 (original), 1,359 after removing duplicate rows
 - **Features:** 11 physicochemical properties + 1 quality score
 
 ## 📂 Data Files
 - **winequality-red-original dataset-uncleaned.csv - Original (raw) dataset**
-- **winequality-red-cleaned.csv – Cleaned dataset with values rounded to 4 decimal places**
+- **winequality-red-cleaned.csv – Cleaned dataset with duplicate rows removed and values rounded to 4 decimal places**
 
 ---
 
@@ -26,6 +26,7 @@ The goal is to help wine producers improve wine quality by understanding which p
 
 ## 🔍 Project Highlights
 - Cleaned and explored the wine dataset
+- Removed 240 duplicate rows, reducing dataset from 1,599 to 1,359 unique wine samples to ensure accurate analysis and modeling
 - Rounded float values (e.g., chlorides, density) to 4 decimal places for clarity
 - Converted quality scores into binary classification (low/high)  
 - Visualized relationships between features and wine quality  
