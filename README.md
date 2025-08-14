@@ -25,7 +25,7 @@ The goal is to help wine producers improve wine quality by understanding which p
 ## 📂 Data Files
 - **winequality-red-original dataset-uncleaned Rows 1599.csv - Original (raw) dataset**
 - **winequality-red-cleaned Rows 1359.csv – Final cleaned dataset**
-- **Capstone Project Red Wine Quality.ipynb` – Jupyter Notebook with complete analysis**
+- **Capstone Project Red Wine Quality Analysis.ipynb` – Jupyter Notebook with complete analysis**
 
 ---
 
