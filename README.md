@@ -34,9 +34,8 @@ The goal is to help wine producers improve wine quality by understanding which p
 - **Pandas, NumPy** – Data wrangling & cleaning
 - **Matplotlib, Seaborn** – Visualization
 - **Scikit-learn** – Machine learning
-- **Power BI** – Interactive dashboard
 - **Microsoft Word** – Step-by-step analysis documentation
-- **PowerPoint** – Presentation slides  
+- **PowerPoint** – Presentation slides design & delivery
 
 ---
 
