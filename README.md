@@ -31,7 +31,7 @@ The goal is to help wine producers improve wine quality by understanding which p
 
 ## 🛠️ Tools Used
 - **Python (Jupyter Notebook)** – Data cleaning, EDA, and model building
-- **Pandas, NumPy** – Data wrangling
+- **Pandas, NumPy** – Data wrangling & cleaning
 - **Matplotlib, Seaborn** – Visualization
 - **Scikit-learn** – Machine learning
 - **Power BI** – Interactive dashboard
