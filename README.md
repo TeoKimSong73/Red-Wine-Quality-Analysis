@@ -1,26 +1,42 @@
 # Red Wine Quality Analysis 🍷
 
-This is a data analysis project that explores the factors affecting the quality of red wine.
+This project analyzes factors influencing the quality of red wines and builds a predictive model to classify wines as "High Quality" or "Low Quality".
+
 The goal is to help wine producers improve wine quality by understanding which physicochemical features influence the final product.
 
 ---
 
 ## 📊 Dataset
-- **Source:** UCI Machine Learning Repository  
-- **Records:** 1,599 (original), 1,359 after removing duplicate rows
+- **Source:** UCI Machine Learning Repository
+- **Total Records (Cleaned):** 1,359 (after removing 240 duplicate rows)
 - **Features:** 11 physicochemical properties + 1 quality score
+- **Target:** Binary quality label (0 = Low Quality, 1 = High Quality)
+
+---
+
+### Recent Changes (Aug 2025)
+- Removed **240 duplicate rows** (from 1,599 → 1,359 rows)
+- Rounded `chlorides` and `density` columns to **4 decimal places** for consistency
+- Saved cleaned dataset as `winequality-red-cleaned.csv` and used it for all analysis
+- Verified Low/High quality counts in Python and Power BI to ensure matching results
+
+---
 
 ## 📂 Data Files
-- **winequality-red-original dataset-uncleaned.csv - Original (raw) dataset**
-- **winequality-red-cleaned.csv – Cleaned dataset with duplicate rows removed and values rounded to 4 decimal places**
+- **winequality-red-original dataset-uncleaned Rows 1599.csv - Original (raw) dataset**
+- **winequality-red-cleaned Rows 1359.csv – Final cleaned dataset**
+- **Capstone Project Red Wine Quality.ipynb` – Jupyter Notebook with complete analysis**
 
 ---
 
 ## 🛠️ Tools Used
-- Python (Jupyter Notebook)  
-- pandas, numpy, matplotlib, seaborn  
-- scikit-learn (for model building)  
-- PowerPoint (for presentation)  
+- **Python (Jupyter Notebook)** – Data cleaning, EDA, and model building
+- **Pandas, NumPy** – Data wrangling
+- **Matplotlib, Seaborn** – Visualization
+- **Scikit-learn** – Machine learning
+- **Power BI** – Interactive dashboard
+- **Microsoft Word** – Step-by-step analysis documentation
+- **PowerPoint** – Presentation slides  
 
 ---
 
@@ -34,17 +50,10 @@ The goal is to help wine producers improve wine quality by understanding which p
 
 ---
 
-## 📈 Future Work
-- Try multi-class classification  
-- Compare different machine learning models  
-- Add more features to improve model accuracy  
-
----
-
 ## 🙏 Acknowledgements
 - **Trainer:** Bishmer  
 - **Learning Support:** NTUC LearningHub & SkillsFuture  
-- **Classmates:** Darren, David, Joanna, Grace, Joelle, Marteus, Winston  
+- **Classmates:** Darren, David, Joanna, Grace, Joelle, Marteus, Miya & Winston  
 - **Other Trainers:** Mridula Singh, Foo Soon Jong, Yegna Ramachandran, Yang Yen Thaw  
 
 ---
