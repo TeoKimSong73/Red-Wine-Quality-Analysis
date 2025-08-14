@@ -50,9 +50,9 @@ The goal is to help wine producers improve wine quality by understanding which p
 ---
 
 ## 🙏 Acknowledgements
-- **Trainer:** Bishmer  
+- **My Trainer:** Mr. Bishmer  
 - **Learning Support:** NTUC LearningHub & SkillsFuture  
-- **Classmates:** Darren, David, Joanna, Grace, Joelle, Marteus, Miya & Winston  
+- **Classmates:** Darren, David, Joanna, Grace, Joelle, Marteus, Miya, Jim, Nick & Winston  
 - **Other Trainers:** Mridula Singh, Foo Soon Jong, Yegna Ramachandran, Yang Yen Thaw  
 
 ---
