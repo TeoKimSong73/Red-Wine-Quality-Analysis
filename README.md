@@ -18,7 +18,7 @@ The goal is to help wine producers improve wine quality by understanding which p
 - Removed **240 duplicate rows** (from 1,599 → 1,359 rows)
 - Rounded `chlorides` and `density` columns to **4 decimal places** for consistency
 - Saved cleaned dataset as `winequality-red-cleaned Rows 1359.csv` and used it for all analysis
-- Verified Low/High quality counts in Python and Power BI to ensure matching results
+- Verified Low/High quality counts in Python to ensure matching results
 
 ---
 
